@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Club clubId="ACM">
+   <Member id="_12345" clubs="ACM">
+   <Name>
+      <FirstName>WEB</FirstName>
+      <MiddleInitial>H</MiddleInitial>
+      <LastName>DO</LastName>
+   </Name>
+
+
+   </Member>
+  <Member id="_1245" clubs="ACM">
+   <Name>
+      <FirstName>WEB</FirstName>
+      <MiddleInitial>H</MiddleInitial>
+      <LastName>DO</LastName>
+   </Name>
+	<Email>
+      <address>llll</address>
+      </Email>
+
+   </Member>
+  
+</Club>
